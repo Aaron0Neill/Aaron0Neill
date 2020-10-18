@@ -1,6 +1,4 @@
-<p align="center">
-  [Introduction](./Images/IntroductionGif.gif)
-</p>
+![Introduction](./Images/IntroductionGif.gif)
 Contact me 
 
 *[LinkedIn](https://www.linkedin.com/in/aaron-0-neill/)
