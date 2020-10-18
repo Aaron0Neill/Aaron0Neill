@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Aaron O Neill
+<p align="center">
+  [Introduction](./Images/IntroductionGif.gif)
+</p>
 Contact me 
 
 *[LinkedIn](https://www.linkedin.com/in/aaron-0-neill/)
