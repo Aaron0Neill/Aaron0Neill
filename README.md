@@ -1,5 +1,6 @@
 ![Introduction](./Images/IntroductionGif.gif)
-Contact me 
+
+## Contact me 
 
 *[LinkedIn](https://www.linkedin.com/in/aaron-0-neill/)
 *Website (W.I.P)
