@@ -7,7 +7,7 @@
 *[Email](aarononeill74@gmail.com)
 ___
 
-I am a 3rd year game development student sutdying a Bs(c) honors in computer games development at Institute of Technology Carlow.<br>
+I am a games development Graduate of South East Technical University. I currently work at amazon.<br>
 I hope that sometime soon all my errors will either fix themselves or get bored and leave :sleepy:.
 ![GamingPic](Images/Pacman.gif)
 ___
